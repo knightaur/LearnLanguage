@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174520018104",
+    "firebase_url": "https://learnlanguage-25bbf.firebaseio.com",
+    "project_id": "learnlanguage-25bbf",
+    "storage_bucket": "learnlanguage-25bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174520018104:android:42a462711d8c64ad",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.learnlanguage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174520018104-oefv9b5mkkrui9h7kkh8a6tfnj573c34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.rp.c346.learnlanguage",
+            "certificate_hash": "bf06ca36f78a1c917e721189506ef3f3a9f4d8e2"
+          }
+        },
+        {
+          "client_id": "174520018104-bi5v61sj4ph24laa9qr4vk7dusgsg13j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE3r4zgs1lUkZpH3rRZVEIh4gqJq0o3lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174520018104-bi5v61sj4ph24laa9qr4vk7dusgsg13j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
